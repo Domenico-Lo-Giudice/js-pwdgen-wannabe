@@ -8,3 +8,4 @@ let color = prompt(`Qual è il tuo colore preferito?`);
 console.log(color);
 
 
+document.getElementById(`welcome_title`).innerHTML = `nomecognomecolorepreferito23`;
